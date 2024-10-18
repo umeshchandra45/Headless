@@ -1,0 +1,13 @@
+
+ TestRunner started ... D:\Srikanth Workspace\Headlessmode\Excel_Data\Excel_data.xlsx
+ Date = 2020-12-02
+ Time = 18:50:24.388
+ inside Login_Page()
+ Web Browses is running in headless mode
+ Loading https://egmn.fa.us2.oraclecloud.com/ in browser
+ click on pt1:commandLink1
+ Browser is closed in Test Runner... 
+ Date = 2020-12-02
+ Time = 18:52:53.830
+ End of TestRunner
+ Logger File is being closed
